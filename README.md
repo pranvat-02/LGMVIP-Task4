@@ -1,4 +1,4 @@
-LGMVIP Web Development Task 4
+LGMVIP-Web-Development-Task-4
 About The Task
 To create a Registration Form whose data is displayed on the same page
 Tech Stack Used
