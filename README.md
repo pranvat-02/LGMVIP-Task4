@@ -1,10 +1,10 @@
-LGMVIP Web Development Task 4
+LGMVIP Web Development Task 3
 
-To create a Registration Form whose data is displayed on the same page
+To create a Simple Calculator
 
 Tech Stack Used:
 HTML, CSS, JS
 
 Live Demo
 
-Visit Website : https://student-reg-form.netlify.app/
+Visit Website : https://lgmcal-culator.netlify.app/
