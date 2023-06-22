@@ -2,7 +2,7 @@ LGMVIP Web Development Task 4
 
 To create a Registration Form whose data is displayed on the same page
 
-Tech Stack Used
+Tech Stack Used:
 HTML, CSS, JS
 
 Live Demo
