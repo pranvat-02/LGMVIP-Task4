@@ -1,10 +1,13 @@
-LGMVIP Web Development Task 4
+# LGMVIP-Web-Development-Task-4
 
-To create a Simple Calculator
+## About The Task
 
-Tech Stack Used:
+To create a Simple Calculator.
+
+## Tech Stack Used
+
 HTML, CSS, JS
 
-Live Demo
+## Live Demo
 
 Visit Website : https://lgmcal-culator.netlify.app/
