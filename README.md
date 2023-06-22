@@ -7,4 +7,4 @@ HTML, CSS, JS
 
 Live Demo
 
-Visit Website : https://lgmreact.netlify.app/
+Visit Website : https://student-reg-form.netlify.app/
